@@ -1,10 +1,3 @@
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
-
 # Telco_Customer_Churn_Data_Analysis
 电信企业客户流失数据分析
 - [Telco_Customer_Churn_Data_Analysis](#telco_customer_churn_data_analysis)
@@ -53,11 +46,17 @@ img{
   + 横坐标：用户使用时长(月)，纵坐标：用户数(户)
   + 整体呈双峰分布，使用1-3个月的用户人数最多，超过1200户，使用35-45个月的用户数最少，使用67-70个月及以上的用户较多，接近800户。
   
+<style>
+img{
+    width: 60%;
+    padding-left: 20%;
+}
+</style>
+
 ![用户使用公司服务的时间分布情况](charts/usage_time_Distribution.jpg)
 
 + 用户使用公司服务签订的合同类型对应的用户使用时长分布
   + 按月签订合约的用户最多，为3875户，按一年/两年签订合约的用户为1685/1472户
-  
 <br>
 
 ![用户使用公司服务签订的合同类型对应的用户使用时长分布](charts/tenure_constract_type.jpg)
