@@ -201,7 +201,7 @@ Telco_Customer_Churn_Data_Analysis
 
 # 完整代码
 
-[完整代码链接在此](code/Data_Clean_EDA)
+[完整代码链接在此](code/Data_Clean_EDA.ipynb)
 
 
 
